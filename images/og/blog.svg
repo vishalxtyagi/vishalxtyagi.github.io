@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="blog-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b1c1c" />
+      <stop offset="100%" stop-color="#c4c7c8" />
+    </linearGradient>
+    <pattern id="blog-pattern" width="54" height="54" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V54" stroke="white" stroke-opacity="0.38" stroke-width="2" /></pattern>
+    <filter id="blog-grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" /></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#blog-gradient)" />
+  <rect width="1200" height="630" fill="url(#blog-pattern)" />
+  <rect width="1200" height="630" filter="url(#blog-grain)" opacity="0.06" style="mix-blend-mode:overlay" />
+  <text x="80" y="500" font-family="monospace" font-size="40" fill="#e6e9ef" opacity="0.85">vishal@tyagi</text>
+  <text x="80" y="560" font-family="sans-serif" font-size="56" font-weight="700" fill="#ffffff">Blog</text>
+</svg>

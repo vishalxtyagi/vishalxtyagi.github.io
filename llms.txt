@@ -1,0 +1,157 @@
+# Vishal Tyagi — vishalxtyagi.in
+
+> Software Developer / Software Engineer based in Hyderabad, Telangana, India.
+> Currently at Runo: product analytics, Amplitude instrumentation, hybrid telephony,
+> CRM integrations, and admin-platform engineering.
+
+## About
+
+Product-minded software engineer working across analytics, telephony, integrations, admin platforms, Flutter/web, automation, and infrastructure-adjacent systems.
+
+Contact: vishaltyagi.sde@gmail.com
+GitHub: https://github.com/vishalxtyagi
+LinkedIn: https://linkedin.com/in/vishalxtyagi
+
+## What makes this engineer distinct
+
+- Can translate engineering implementation into product, analytics, and business context.
+- Current work shows depth in product analytics, event taxonomy, Amplitude integration, user/company traits, and analytics accuracy.
+- Has hands-on exposure across Flutter/mobile, web, backend, automation, cloud hosting, CRM/integration workflows, and IoT/industrial automation.
+- Has built practical systems for colleges, SaaS/product companies, NGOs, government/event workflows, e-commerce, and education platforms.
+- Has several automation examples, including OMR processing at 90,000+ sheet scale.
+
+## Best-fit role types
+
+- Product Engineer
+- Software Engineer - Product Analytics
+- Full-stack Software Engineer
+- Frontend/Product Engineer with Flutter/Web depth
+- Integrations Engineer
+- Platform/Application Engineer for SaaS systems
+
+## Key pages
+
+- [Projects](https://vishalxtyagi.in/projects): production systems with evidence-level tagging (verified, high-confidence, partial)
+- [Case studies](https://vishalxtyagi.in/case-studies): deep technical write-ups on flagship work
+- [Codelabs](https://vishalxtyagi.in/codelabs): step-by-step engineering guides
+- [Research](https://vishalxtyagi.in/research): system design breakdowns and architecture logs
+- [Writing](https://vishalxtyagi.in/writing): engineering notes and essays
+- [Knowledge base](https://vishalxtyagi.in/knowledge-base): cross-linked topic map across projects, writing, and research
+- [About](https://vishalxtyagi.in/about): background, skills, and timeline
+- [Now](https://vishalxtyagi.in/now): current focus and priorities
+
+## Portfolio coverage
+
+- 158 GitHub repos verified from source code (commit history, README, code)
+- 26 named portfolio projects (10 with full write-ups live on site)
+- 12 skill/domain areas (see ## Skill areas below)
+
+## Projects with write-ups
+
+- [blockchain-ngo-donations](https://vishalxtyagi.in/projects/blockchain-ngo-donations)
+- [enthral-price-automation](https://vishalxtyagi.in/projects/enthral-price-automation)
+- [flutter-image-hotspot](https://vishalxtyagi.in/projects/flutter-image-hotspot)
+- [nmold-inventory-redevelopment](https://vishalxtyagi.in/projects/nmold-inventory-redevelopment)
+- [omr-sheet-automation](https://vishalxtyagi.in/projects/omr-sheet-automation)
+- [piet-quest-portal](https://vishalxtyagi.in/projects/piet-quest-portal)
+- [runo-admin-web-migration](https://vishalxtyagi.in/projects/runo-admin-web-migration)
+- [runo-hybrid-telephony](https://vishalxtyagi.in/projects/runo-hybrid-telephony)
+- [runo-product-analytics](https://vishalxtyagi.in/projects/runo-product-analytics)
+- [smart-irrigation-iot](https://vishalxtyagi.in/projects/smart-irrigation-iot)
+
+## Portfolio projects (knowledge base)
+
+- **AI-Powered Financial Chatbot** — Financial-report chatbot/NLP system; related LinkedIn role references Morningstar documentation chatbot deployed on AWS Lightsail.
+- **Automated Report Downloader** — Automation for downloading and organizing reports from web portals.
+- **Blockchain-Based NGO Donation Tracking** — Blockchain platform for transparent NGO donations and payouts.
+- **Crickiaa** — Flutter UI app for gully cricket match management and scorekeeping.
+- **CSXIIP School Management System** — Low-code school management GUI that dynamically creates tables, forms, and CRUD operations from DB schema.
+- **ENTHRAL.IN Product Data Change Detection Tool** — Supplier scraping and comparison workflow to update OpenCart product listings/prices using margin rules.
+- **EvalSheet** — Automated handwritten answer checker with test creation, OCR answer extraction, and similarity-based grading.
+- **Floor Plan Builder** — Flutter package for interactive floor plans with customizable tables.
+- **GMSSSS Laravel School Website** — School website with dynamic pages, navigation, role management, shared-hosting deployment helper, and error handling.
+- **Hopfield Network Visualization** — Learning project with interactive Hopfield Network visualizations; note that it was created with AI assistance per GitHub summary.
+- **HTML Content Translator** — Script that translates text inside HTML while preserving tags.
+- **image_hotspot Flutter Package** — Flutter package for defining interactive clickable hotspot areas on images.
+- **Laravel Queue Worker for Shared Hosting** — Node.js script enabling Laravel queue workers in shared hosting environments where background processes are limited.
+- **My Dua App** — Ramadan-focused app redesign with music playback and religious features.
+- **NMOLD Inventory Management Redevelopment** — Redeveloped inventory management using Flutter, Express, and MongoDB, replacing older Python/Laravel stack and adding image recognition.
+- **NO-CODE ML Environment** — Web-based no-code machine-learning pipeline environment.
+- **OMR Sheet Reading Automation** — Python automation script for OMR sheet reading that processed over 90,000 sheets.
+- **PHP Ghost Wall** — Laravel package for code-integrity monitoring, tamper alerts, and server information on boot.
+- **PIET Quest Exam Portal** — Exam portal with cheating detection, randomized question sets, and dynamic question ordering.
+- **Real-time Location Tracker** — Live location sharing app with interactive map.
+- **Runo Admin Web Migration / Admin Platform Workflows** — Admin Web Flutter migration work involving reusable components, integration dialogs, bulk uploads, deletion workflows, templates, validation, and loading states.
+- **Runo Hybrid Telephony** — Hybrid GSM/cloud calling flows with call-medium selection, virtual-number assignment, call logs, analytics filters, and permissions.
+- **Runo Product Analytics / Amplitude System** — Product analytics infrastructure and instrumentation across authentication, billing, CRM, templates, allocations, filters, and product workflows.
+- **Skill Matrix LMS** — LMS workflow for translating educational videos by extracting audio, generating subtitles, translating, and recombining media.
+- **Smart Irrigation IoT** — NodeMCU/sensor-based smart irrigation app with Flutter visualization and SVM-based irrigation forecasting.
+- **TrueShot** — Image validator API using face-api.js and TensorFlow.js.
+
+## Skill areas
+
+- **ai ml and nlp** — Scikit-learn, NLTK, TensorFlow, OpenAI Whisper, NLP chatbots, and image recognition across academic and portfolio projects
+- **analytics and product data** — Amplitude instrumentation, event taxonomy design, user/company traits, funnel and retention tracking — primary Runo production work
+- **automation and data processing** — Selenium, OMR sheet processing at 90k+ scale, OCR, bulk data workflows, and PDF generation
+- **backend and web** — Node.js, Laravel, Django, Flask — REST APIs, webhooks, and backend services across multiple stacks
+- **blockchain** — Solidity, Ethereum, Truffle, Web3.js — donation transparency and on-chain workflow projects
+- **cloud devops and infra** — Linux, Docker, AWS, GCP, DigitalOcean, Alibaba Cloud — server deployment and hosting across projects
+- **databases and storage** — SQLite, MySQL, PostgreSQL, MongoDB, Hive, and Appwrite across projects and production systems
+- **frontend and mobile** — Flutter, Flutter Web, React, and responsive admin dashboard development across mobile and web
+- **integrations** — Facebook/Meta, WABA, OAuth, HubSpot, Zoho, Salesforce, and payment gateway integrations for SaaS CRM workflows
+- **iot and industrial** — NodeMCU, Arduino, Raspberry Pi, Siemens/Delta PLCs, and OPC UA — IoT sensors and industrial automation
+- **languages** — Core programming languages: Dart, Python, JavaScript/TypeScript, PHP, SQL, Bash, and Java
+- **telephony and crm** — Hybrid cloud/GSM telephony, virtual number assignment, call analytics, and CRM data configuration at Runo
+
+## Career / clients
+
+- **ACHIEVERS (Startup)** — Student achievement social platform; Flutter mobile development for peer networking and academic progress tracking
+- **CURESURE (Startup)** — Healthcare SaaS startup; 6-month software development role on a hospital management system
+- **Digitaxperts** — Web development agency; Laravel client sites (awards shows, insurance, institutes) and server/DNS/hosting recovery work
+- **Emailwish** — Shopify email automation SaaS; 1-month contract on Laravel backend and React frontend chat widget
+- **ENTHRAL.IN** — Electronics/CCTV e-commerce site; built a supplier-scraping price-automation tool and fixed OpenCart functionality
+- **EQUALITYMUST STUDIOS** — Freelance Android and web development studio; shipped a news aggregator app, a rentals platform, and a classifieds site
+- **Geoms Digital House Pvt. Ltd.** — Digital agency; Panipat Marathon 2024 registration site (with govt. collaboration), Next.js/MongoDB inventory portal fixes
+- **HtK Network** — IT company; blockchain and web development alongside DevOps automation (Jenkins, Terraform) and OMR automation at 90k+ sheet scale
+- **INCITE GROUP** — MNC environment; Python OMR automation at 90k+ sheet scale, DevOps practices with Jenkins/Terraform, international client onboarding
+- **Infosys Springboard** — Infosys's free digital-skills learning platform; career-entry training, not a traditional employment role
+- **Milano Web Agency** — Web hosting agency; 14-month contract managing Plesk panels, DNS, server setups, and cybersecurity measures across client environments
+- **Minksha** — Milk-delivery startup; 2-month frontend contract building the consumer-facing web UI
+- **NAUKRICART (Startup)** — Construction-sector job portal; two-sided marketplace for job listings and equipment rental
+- **NMOLD (OPC) PRIVATE LIMITED** — Manufacturing company; led Flutter+Express+MongoDB inventory rebuild, IoT poultry monitoring, OPC UA/Node-RED PLC data streaming
+- **Panipat Institute of Engineering and Technology** — PIET college; student portals, PIET Quest exam platform with cheating detection, HDFC-integrated ticketing, automation scripts
+- **PEHLAPANNA** — News platform startup; cloud operations for AWS Lightsail migration and hosting cost optimization
+- **PIXOVA STUDIOS / Versioning Solution** — Web agency; CodeIgniter property listing site maintenance, Node.js portal development
+- **Profusion Creatives LLP** — Web agency; Laravel development for rummy platform, pharma site, awards show, and music streaming startup
+- **RGC Engineering Solutions** — Engineering firm; Flutter work (My Dua prayer app redesign, attendance app) and ML engineering stint
+- **Runo** — CRM and telephony SaaS (current employer); product analytics instrumentation, hybrid telephony, admin platform, CRM/lead-source integrations
+- **TechMarshal Software Pvt. Ltd.** — IT company; PHP maintenance for Techmarshal website and RupayRummy client site
+- **VISION Foundation** — NGO/education; built Laravel exam module for Vidya Darshini IAS prep platform
+
+## GitHub orgs
+
+- **flexiblecampus** — Education-platform org (PIET context) — Laravel/Filament starter kit for campus admin workflows
+- **haloyte** — Startup org — Flutter mobile app (sarvdharm) and supporting infrastructure repos; early-stage product work across mobile and DevOps
+- **profusioncreatives** — Web agency client org — PHP/Laravel sites for awards shows, e-commerce, and brand campaigns delivered as production deployments
+- **vishalxtyagi** — Personal GitHub account — 123 repos spanning college projects, freelance client work, open-source packages, and product prototypes across PHP/Laravel, Flutter, Python, and Node.js
+- **wirecept** — Product-company org — contributions to Manifest (open-source manufacturing ERP for factory floors), CloudPilot serverless infra, and a shared Flutter core package
+- **yespiet** — YesPIET — institutional GitHub org for PIET (Pragya Institute of Engineering and Technology); campus management portals, event registration systems, and student-facing tools
+
+## Repo domain clusters
+
+- **AI / ML / Data Automation** — 27 repos across OMR sheet automation, fraud detection, NLP chatbots, IoT prediction, and bulk data workflows — spans academic projects to production tools
+- **Business / SaaS / Inventory / Finance** — 21 repos spanning inventory management, money-manager apps, and SaaS prototypes — mix of shipped client software and product experiments
+- **Campus / Education Operations** — 33 repos across gate-pass systems, bus-route trackers, student portals, and campus admin tools — the largest single domain cluster
+- **Events / Registration / Ticketing** — 12 repos for live events: marathon ticketing, cultural-fest portals, convocation check-in, and award-show registration — most shipped for real events
+- **Infrastructure / DevOps / Tooling** — 15 repos for server provisioning, CI/CD, Docker deployments, and developer tooling across personal and startup (Haloyte, Wirecept) contexts
+- **Learning / Utilities / Experiments** — 12 repos of FreeCodeCamp projects, LeetCode solutions, and short utility scripts — low-signal for a portfolio but part of the full commit history
+- **Mobile / Flutter Apps and Packages** — 16 Flutter repos including a pub.dev package, a prayer-times app, a real-time location tracker, and a sports-score feed
+- **Unclear / Low-Signal Repo** — 21 repos with minimal commits or unclear purpose — test scaffolds, renamed forks, and archived stubs that don't represent active work
+- **Websites / CMS / Client Delivery** — 24 repos — PHP/Laravel client sites, CMS deployments, and brand microsites delivered for schools, NGOs, and small businesses
+
+## Credentials
+
+- TCS CodeVita Season 11 — Global Rank 371
+- B.Tech — PIET
+
+This file is regenerated by automation/sync.py; last updated 2026-06-29.

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="open-source-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a2e26" />
+      <stop offset="100%" stop-color="#5e9980" />
+    </linearGradient>
+    <pattern id="open-source-pattern" width="84" height="147" patternUnits="userSpaceOnUse"><path d="M42 0L84 24V73.5L42 97.5L0 73.5V24Z" fill="none" stroke="white" stroke-opacity="0.38" stroke-width="1.75" /><path d="M42 97.5L84 121.5V171L42 195L0 171V121.5Z" fill="none" stroke="white" stroke-opacity="0.38" stroke-width="1.75" /></pattern>
+    <filter id="open-source-grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" /></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#open-source-gradient)" />
+  <rect width="1200" height="630" fill="url(#open-source-pattern)" />
+  <rect width="1200" height="630" filter="url(#open-source-grain)" opacity="0.06" style="mix-blend-mode:overlay" />
+  <text x="80" y="500" font-family="monospace" font-size="40" fill="#e6e9ef" opacity="0.85">vishal@tyagi</text>
+  <text x="80" y="560" font-family="sans-serif" font-size="56" font-weight="700" fill="#ffffff">Open Source</text>
+</svg>

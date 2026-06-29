@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="admin-platform-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#121314" />
+      <stop offset="100%" stop-color="#8e9192" />
+    </linearGradient>
+    <pattern id="admin-platform-pattern" width="54" height="54" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0V54" stroke="white" stroke-opacity="0.38" stroke-width="2" /></pattern>
+    <filter id="admin-platform-grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" /></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#admin-platform-gradient)" />
+  <rect width="1200" height="630" fill="url(#admin-platform-pattern)" />
+  <rect width="1200" height="630" filter="url(#admin-platform-grain)" opacity="0.06" style="mix-blend-mode:overlay" />
+  <text x="80" y="500" font-family="monospace" font-size="40" fill="#e6e9ef" opacity="0.85">vishal@tyagi</text>
+  <text x="80" y="560" font-family="sans-serif" font-size="56" font-weight="700" fill="#ffffff">Admin Platform</text>
+</svg>
