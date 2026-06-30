@@ -19,6 +19,8 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 - Has hands-on exposure across Flutter/mobile, web, backend, automation, cloud hosting, CRM/integration workflows, and IoT/industrial automation.
 - Has built practical systems for colleges, SaaS/product companies, NGOs, government/event workflows, e-commerce, and education platforms.
 - Has several automation examples, including OMR processing at 90,000+ sheet scale.
+- Global Rank 371 in TCS CodeVita Season 11
+- Python OMR automation script processed over 90,000 sheets
 
 ## Best-fit role types
 
@@ -43,7 +45,7 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 ## Portfolio coverage
 
 - 158 GitHub repos verified from source code (commit history, README, code)
-- 26 named portfolio projects (10 with full write-ups live on site)
+- 26 named portfolio projects (10 projects + 1 case-studies with write-ups live on site)
 - 12 skill/domain areas (see ## Skill areas below)
 
 ## Projects with write-ups
@@ -58,42 +60,43 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 - [runo-hybrid-telephony](https://vishalxtyagi.in/projects/runo-hybrid-telephony)
 - [runo-product-analytics](https://vishalxtyagi.in/projects/runo-product-analytics)
 - [smart-irrigation-iot](https://vishalxtyagi.in/projects/smart-irrigation-iot)
+- [hybrid-telephony-architecture](https://vishalxtyagi.in/case-studies/hybrid-telephony-architecture) (case study)
 
 ## Portfolio projects (knowledge base)
 
-- **AI-Powered Financial Chatbot** — Financial-report chatbot/NLP system; related LinkedIn role references Morningstar documentation chatbot deployed on AWS Lightsail.
-- **Automated Report Downloader** — Automation for downloading and organizing reports from web portals.
-- **Blockchain-Based NGO Donation Tracking** — Blockchain platform for transparent NGO donations and payouts.
-- **Crickiaa** — Flutter UI app for gully cricket match management and scorekeeping.
-- **CSXIIP School Management System** — Low-code school management GUI that dynamically creates tables, forms, and CRUD operations from DB schema.
-- **ENTHRAL.IN Product Data Change Detection Tool** — Supplier scraping and comparison workflow to update OpenCart product listings/prices using margin rules.
-- **EvalSheet** — Automated handwritten answer checker with test creation, OCR answer extraction, and similarity-based grading.
-- **Floor Plan Builder** — Flutter package for interactive floor plans with customizable tables.
-- **GMSSSS Laravel School Website** — School website with dynamic pages, navigation, role management, shared-hosting deployment helper, and error handling.
-- **Hopfield Network Visualization** — Learning project with interactive Hopfield Network visualizations; note that it was created with AI assistance per GitHub summary.
-- **HTML Content Translator** — Script that translates text inside HTML while preserving tags.
-- **image_hotspot Flutter Package** — Flutter package for defining interactive clickable hotspot areas on images.
-- **Laravel Queue Worker for Shared Hosting** — Node.js script enabling Laravel queue workers in shared hosting environments where background processes are limited.
-- **My Dua App** — Ramadan-focused app redesign with music playback and religious features.
-- **NMOLD Inventory Management Redevelopment** — Redeveloped inventory management using Flutter, Express, and MongoDB, replacing older Python/Laravel stack and adding image recognition.
-- **NO-CODE ML Environment** — Web-based no-code machine-learning pipeline environment.
-- **OMR Sheet Reading Automation** — Python automation script for OMR sheet reading that processed over 90,000 sheets.
-- **PHP Ghost Wall** — Laravel package for code-integrity monitoring, tamper alerts, and server information on boot.
+- **AI-Powered Financial Chatbot** — Financial-report chatbot/NLP system; related LinkedIn role references Morningstar documentation chatbot deployed on AWS Lightsail. · repo: vishalxtyagi-morningstar-pdf-chatbot
+- **Automated Report Downloader** — Automation for downloading and organizing reports from web portals. · repo: yespiet-python-feedback-downloader
+- **Blockchain-Based NGO Donation Tracking** — Blockchain platform for transparent NGO donations and payouts. · repo: vishalxtyagi-ngo-minor-project
+- **Crickiaa** — Flutter UI app for gully cricket match management and scorekeeping. · repo: vishalxtyagi-crickiaa-dev
+- **CSXIIP School Management System** — Low-code school management GUI that dynamically creates tables, forms, and CRUD operations from DB schema. · repo: vishalxtyagi-csxiip
+- **ENTHRAL.IN Product Data Change Detection Tool** — Supplier scraping and comparison workflow to update OpenCart product listings/prices using margin rules. · repo: vishalxtyagi-enthral-scraped-data-changes-detector
+- **EvalSheet** — Automated handwritten answer checker with test creation, OCR answer extraction, and similarity-based grading. · repo: vishalxtyagi-evalsheet
+- **Floor Plan Builder** — Flutter package for interactive floor plans with customizable tables. · repo: vishalxtyagi-floor-plan-builder
+- **GMSSSS Laravel School Website** — School website with dynamic pages, navigation, role management, shared-hosting deployment helper, and error handling. · repo: vishalxtyagi-gmsssschulkana
+- **Hopfield Network Visualization** — Learning project with interactive Hopfield Network visualizations; note that it was created with AI assistance per GitHub summary. · repo: vishalxtyagi-hopfield-network-viz
+- **HTML Content Translator** — Script that translates text inside HTML while preserving tags. · repo: vishalxtyagi-html-files-translator-using-python
+- **image_hotspot Flutter Package** — Flutter package for defining interactive clickable hotspot areas on images. · repo: vishalxtyagi-flutter-image-hotspot
+- **Laravel Queue Worker for Shared Hosting** — Node.js script enabling Laravel queue workers in shared hosting environments where background processes are limited. · repo: vishalxtyagi-nodejs-laravel-queue-runner
+- **My Dua App** — Ramadan-focused app redesign with music playback and religious features. · repo: vishalxtyagi-my-dua-app
+- **NMOLD Inventory Management Redevelopment** — Redeveloped inventory management using Flutter, Express, and MongoDB, replacing older Python/Laravel stack and adding image recognition. · repo: vishalxtyagi-nmolds
+- **NO-CODE ML Environment** — Web-based no-code machine-learning pipeline environment. · repo: vishalxtyagi-no-code-ml
+- **OMR Sheet Reading Automation** — Python automation script for OMR sheet reading that processed over 90,000 sheets. · repo: vishalxtyagi-omr-scanner
+- **PHP Ghost Wall** — Laravel package for code-integrity monitoring, tamper alerts, and server information on boot. · repo: vishalxtyagi-php-ghost-wall
 - **PIET Quest Exam Portal** — Exam portal with cheating detection, randomized question sets, and dynamic question ordering.
-- **Real-time Location Tracker** — Live location sharing app with interactive map.
+- **Real-time Location Tracker** — Live location sharing app with interactive map. · repo: vishalxtyagi-realtime-location-tracker
 - **Runo Admin Web Migration / Admin Platform Workflows** — Admin Web Flutter migration work involving reusable components, integration dialogs, bulk uploads, deletion workflows, templates, validation, and loading states.
 - **Runo Hybrid Telephony** — Hybrid GSM/cloud calling flows with call-medium selection, virtual-number assignment, call logs, analytics filters, and permissions.
 - **Runo Product Analytics / Amplitude System** — Product analytics infrastructure and instrumentation across authentication, billing, CRM, templates, allocations, filters, and product workflows.
-- **Skill Matrix LMS** — LMS workflow for translating educational videos by extracting audio, generating subtitles, translating, and recombining media.
-- **Smart Irrigation IoT** — NodeMCU/sensor-based smart irrigation app with Flutter visualization and SVM-based irrigation forecasting.
-- **TrueShot** — Image validator API using face-api.js and TensorFlow.js.
+- **Skill Matrix LMS** — LMS workflow for translating educational videos by extracting audio, generating subtitles, translating, and recombining media. · repo: vishalxtyagi-skill-matrix-lms
+- **Smart Irrigation IoT** — NodeMCU/sensor-based smart irrigation app with Flutter visualization and SVM-based irrigation forecasting. · repo: vishalxtyagi-smart-irrigation-iot
+- **TrueShot** — Image validator API using face-api.js and TensorFlow.js. · repo: vishalxtyagi-trueshot
 
 ## Skill areas
 
 - **ai ml and nlp** — Scikit-learn, NLTK, TensorFlow, OpenAI Whisper, NLP chatbots, and image recognition across academic and portfolio projects
 - **analytics and product data** — Amplitude instrumentation, event taxonomy design, user/company traits, funnel and retention tracking — primary Runo production work
-- **automation and data processing** — Selenium, OMR sheet processing at 90k+ scale, OCR, bulk data workflows, and PDF generation
-- **backend and web** — Node.js, Laravel, Django, Flask — REST APIs, webhooks, and backend services across multiple stacks
+- **automation and data processing** — Selenium, OMR sheet processing at 90k+ scale, OCR, ETL pipelines, bulk data workflows, and PDF generation
+- **backend and web** — Node.js, Laravel, Django, Flask, Next.js — REST APIs, webhooks, full-stack web apps, and backend services across multiple stacks
 - **blockchain** — Solidity, Ethereum, Truffle, Web3.js — donation transparency and on-chain workflow projects
 - **cloud devops and infra** — Linux, Docker, AWS, GCP, DigitalOcean, Alibaba Cloud — server deployment and hosting across projects
 - **databases and storage** — SQLite, MySQL, PostgreSQL, MongoDB, Hive, and Appwrite across projects and production systems
@@ -154,4 +157,4 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 - TCS CodeVita Season 11 — Global Rank 371
 - B.Tech — PIET
 
-This file is regenerated by automation/sync.py; last updated 2026-06-29.
+This file is regenerated by automation/sync.py from Tier 2 sources.
