@@ -93,11 +93,11 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 
 ## Skill areas
 
-- **ai ml and nlp** — Scikit-learn, NLTK, TensorFlow, OpenAI Whisper, NLP chatbots, and image recognition across academic and portfolio projects
+- **ai ml and nlp** — Scikit-learn, HuggingFace sentence-transformers, LlamaIndex RAG, TensorFlow.js, OpenAI Whisper, and NLP chatbots across academic and portfolio projects
 - **analytics and product data** — Amplitude instrumentation, event taxonomy design, user/company traits, funnel and retention tracking — primary Runo production work
 - **automation and data processing** — Selenium, OMR sheet processing at 90k+ scale, OCR, ETL pipelines, bulk data workflows, and PDF generation
 - **backend and web** — Node.js, Laravel, Django, Flask, Next.js — REST APIs, webhooks, full-stack web apps, and backend services across multiple stacks
-- **blockchain** — Solidity, Ethereum, Truffle, Web3.js — donation transparency and on-chain workflow projects
+- **blockchain** — Solidity, Ethereum, Truffle, Web3.js, Web3.py — donation transparency and on-chain workflow projects
 - **cloud devops and infra** — Linux, Docker, AWS, GCP, DigitalOcean, Alibaba Cloud — server deployment and hosting across projects
 - **databases and storage** — SQLite, MySQL, PostgreSQL, MongoDB, Hive, and Appwrite across projects and production systems
 - **frontend and mobile** — Flutter, Flutter Web, React, and responsive admin dashboard development across mobile and web
