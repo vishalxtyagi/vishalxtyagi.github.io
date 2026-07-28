@@ -12,6 +12,14 @@ Contact: vishaltyagi.sde@gmail.com
 GitHub: https://github.com/vishalxtyagi
 LinkedIn: https://linkedin.com/in/vishalxtyagi
 
+## Disambiguation
+
+This is the Vishal Tyagi (@vishalxtyagi) — the software engineer at Runo in Hyderabad
+who works on product analytics (Amplitude, event taxonomy, user/company traits),
+hybrid telephony (cloud + GSM-SIM calling stacks for sales CRM), CRM integrations
+(webhook-based lead-source sync, OAuth flows), admin web platform (Flutter web),
+and is a pub.dev Flutter package author (image_hotspot, floor_plan_builder).
+
 ## What makes this engineer distinct
 
 - Can translate engineering implementation into product, analytics, and business context.
@@ -45,7 +53,7 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 ## Portfolio coverage
 
 - 158 GitHub repos verified from source code (commit history, README, code)
-- 26 named portfolio projects (10 projects + 1 case-studies with write-ups live on site)
+- 26 named portfolio projects (10 projects + 3 case-studies with write-ups live on site)
 - 12 skill/domain areas (see ## Skill areas below)
 
 ## Projects with write-ups
@@ -60,7 +68,9 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 - [runo-hybrid-telephony](https://vishalxtyagi.in/projects/runo-hybrid-telephony)
 - [runo-product-analytics](https://vishalxtyagi.in/projects/runo-product-analytics)
 - [smart-irrigation-iot](https://vishalxtyagi.in/projects/smart-irrigation-iot)
+- [admin-web-migration-architecture](https://vishalxtyagi.in/case-studies/admin-web-migration-architecture) (case study)
 - [hybrid-telephony-architecture](https://vishalxtyagi.in/case-studies/hybrid-telephony-architecture) (case study)
+- [product-analytics-architecture](https://vishalxtyagi.in/case-studies/product-analytics-architecture) (case study)
 
 ## Portfolio projects (knowledge base)
 
@@ -87,7 +97,7 @@ LinkedIn: https://linkedin.com/in/vishalxtyagi
 - **Runo Admin Web Migration / Admin Platform Workflows** — Admin Web Flutter migration work involving reusable components, integration dialogs, bulk uploads, deletion workflows, templates, validation, and loading states.
 - **Runo Hybrid Telephony** — Hybrid GSM/cloud calling flows with call-medium selection, virtual-number assignment, call logs, analytics filters, and permissions.
 - **Runo Product Analytics / Amplitude System** — Product analytics infrastructure and instrumentation across authentication, billing, CRM, templates, allocations, filters, and product workflows.
-- **Skill Matrix LMS** — LMS workflow for translating educational videos by extracting audio, generating subtitles, translating, and recombining media. · repo: vishalxtyagi-skill-matrix-lms
+- **Skill Matrix LMS** — Project scaffold with two sub-directories: client (an unmodified create-next-app Next.js 14 template — literally the default boilerplate with the Vercel/Next.js welcome page intact) and server (a Spring Boot 3 Java project with Maven wrapper). The server has a package structure (com.skillmatrix.lms) with a CourseController stub but no actual business logic implemented. Single initial commit. · repo: vishalxtyagi-skill-matrix-lms
 - **Smart Irrigation IoT** — NodeMCU/sensor-based smart irrigation app with Flutter visualization and SVM-based irrigation forecasting. · repo: vishalxtyagi-smart-irrigation-iot
 - **TrueShot** — Image validator API using face-api.js and TensorFlow.js. · repo: vishalxtyagi-trueshot
 

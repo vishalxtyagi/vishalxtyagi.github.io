@@ -1,0 +1,23 @@
+/* TEAM */
+Developer, Designer: Vishal Tyagi
+Location: Hyderabad, Telangana, India
+GitHub: github.com/vishalxtyagi
+LinkedIn: linkedin.com/in/vishalxtyagi
+npm / pub.dev: vishalxtyagi
+
+/* THANKS */
+Built with Astro, Tailwind CSS, and MDX.
+Hosted on Vercel.
+
+/* SITE */
+Last update: 2026-06-30
+Language: English
+Doctype: HTML5
+IDE: VS Code + Claude Code
+Standards: schema.org, llms.txt spec, Web Content Accessibility Guidelines (WCAG)
+
+/* IDENTITY */
+This is the Vishal Tyagi who builds product analytics (Amplitude),
+hybrid telephony (cloud + GSM-SIM calling), and CRM integrations at Runo.
+Flutter pub.dev package author. B.Tech IT (AI & Data Science), PIET.
+Not the Bollywood singer, not the politician — a software engineer from Hyderabad.

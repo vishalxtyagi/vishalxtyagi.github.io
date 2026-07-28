@@ -1,4 +1,26 @@
 User-agent: *
 Allow: /
 
+# AI language model crawlers — explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
 Sitemap: https://vishalxtyagi.in/sitemap-index.xml
+
+# For LLM/AI crawlers: https://vishalxtyagi.in/llms.txt
+# For humans: https://vishalxtyagi.in/humans.txt
