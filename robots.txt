@@ -1,24 +1,48 @@
+# Codelab step redirect stubs (<meta name="robots" content="noindex"> on every
+# /codelabs/<slug>/step-N page, see src/pages/codelabs/[slug]/[step].astro) and
+# /decisions (an Astro.redirect() stub Astro itself marks noindex) are noncanonical
+# pages that still resolve to a real 200 and so still get crawled -- the meta tag
+# stops indexing but not the crawl itself. Disallow reinforces that for crawlers
+# that honor robots.txt but might not parse the meta tag, and is repeated per
+# User-agent block below since a bot with its own named group ignores `User-agent:
+# *` entirely (see check_site.py's find_noindexed_in_sitemap docstring for the
+# same gap on the sitemap side, which this does not fix -- that needs an
+# astro.config.mjs sitemap({filter}) edit, a Fixed file, human-approved only).
 User-agent: *
 Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
 
 # AI language model crawlers — explicitly welcome
 User-agent: GPTBot
 Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
 
 User-agent: anthropic-ai
 Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
 
 User-agent: Applebot-Extended
 Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
 
 User-agent: cohere-ai
 Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
 
 Sitemap: https://vishalxtyagi.in/sitemap-index.xml
 
