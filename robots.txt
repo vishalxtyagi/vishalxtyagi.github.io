@@ -44,6 +44,22 @@ Allow: /
 Disallow: /codelabs/*/step-*
 Disallow: /decisions
 
+# Google-Extended governs Gemini/Bard grounding and training use of this
+# content -- a separate opt-in from Googlebot's own indexing (already
+# covered by the wildcard group above), so it needs its own explicit group.
+User-agent: Google-Extended
+Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
+
+# OAI-SearchBot powers ChatGPT's live search citations -- distinct purpose
+# from GPTBot above (which OpenAI uses for model training), so it gets its
+# own group rather than being assumed covered by the GPTBot one.
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /codelabs/*/step-*
+Disallow: /decisions
+
 Sitemap: https://vishalxtyagi.in/sitemap-index.xml
 
 # For LLM/AI crawlers: https://vishalxtyagi.in/llms.txt
