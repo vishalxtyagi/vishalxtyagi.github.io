@@ -197,17 +197,17 @@
 
       // Open modal dialog
       if (resumeModal) {
-        (resumeModal as HTMLDialogElement).showModal();
+        resumeModal.showModal();
         document.getElementById('resume-heading')?.focus();
       }
     }
 
     async function generateResume() {
       if (!jdBox) return;
-      const jdText = (jdBox as HTMLTextAreaElement).value.trim();
+      const jdText = jdBox.value.trim();
       if (jdText.length < 20) {
         alert('Please enter a longer job description (minimum 20 characters) to analyze.');
-        (jdBox as HTMLTextAreaElement).focus();
+        jdBox.focus();
         return;
       }
 
@@ -224,8 +224,8 @@
     
     resetInputBtn?.addEventListener('click', () => {
       if (jdBox) {
-        (jdBox as HTMLTextAreaElement).value = '';
-        (jdBox as HTMLTextAreaElement).focus();
+        jdBox.value = '';
+        jdBox.focus();
       }
     });
 
@@ -241,14 +241,14 @@
         const presetName = btn.getAttribute('data-preset');
         const text = presetJdTemplates[presetName] || '';
         if (jdBox) {
-          (jdBox as HTMLTextAreaElement).value = text;
+          jdBox.value = text;
           generateResume();
         }
       });
     });
 
-    closeModalTopBtn?.addEventListener('click', () => (resumeModal as HTMLDialogElement).close());
-    closeModalBtn?.addEventListener('click', () => (resumeModal as HTMLDialogElement).close());
+    closeModalTopBtn?.addEventListener('click', () => resumeModal.close());
+    closeModalBtn?.addEventListener('click', () => resumeModal.close());
 
     copyBtn?.addEventListener('click', () => {
       navigator.clipboard.writeText(generatedResumeMarkdown);
@@ -270,7 +270,7 @@
     window.addEventListener('load', () => {
       const savedJd = localStorage.getItem('tailored-jd-input');
       if (savedJd && jdBox) {
-        (jdBox as HTMLTextAreaElement).value = savedJd;
+        jdBox.value = savedJd;
         localStorage.removeItem('tailored-jd-input');
         generateResume();
       }
