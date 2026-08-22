@@ -10,7 +10,7 @@ Built with Astro, Tailwind CSS, and MDX.
 Hosted on GitHub Pages.
 
 /* SITE */
-Last update: 2026-08-21
+Last update: 2026-08-22
 Language: English
 Doctype: HTML5
 Standards: schema.org, llms.txt spec
