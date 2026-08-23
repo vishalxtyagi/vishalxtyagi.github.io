@@ -1,0 +1,24 @@
+{
+  "name": "Vishal Tyagi",
+  "short_name": "Vishal Tyagi",
+  "description": "Engineering projects, case studies, and notes from Vishal Tyagi.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
