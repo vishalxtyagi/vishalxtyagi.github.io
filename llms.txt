@@ -55,7 +55,7 @@ and is a pub.dev Flutter package author (image_hotspot, floor_plan_builder).
 ## Portfolio coverage
 
 - 158 GitHub repos verified from source code (commit history, README, code)
-- 26 named portfolio projects (24 projects + 3 case-studies with write-ups live on site)
+- 26 named portfolio projects (24 projects + 4 case-studies with write-ups live on site)
 - 12 skill/domain areas (see ## Skill areas below)
 
 ## Projects with write-ups
@@ -86,7 +86,23 @@ and is a pub.dev Flutter package author (image_hotspot, floor_plan_builder).
 - [smart-irrigation-iot](https://vishalxtyagi.in/projects/smart-irrigation-iot)
 - [admin-web-migration-architecture](https://vishalxtyagi.in/case-studies/admin-web-migration-architecture) (case study)
 - [hybrid-telephony-architecture](https://vishalxtyagi.in/case-studies/hybrid-telephony-architecture) (case study)
+- [nmold-plc-telemetry-architecture](https://vishalxtyagi.in/case-studies/nmold-plc-telemetry-architecture) (case study)
 - [product-analytics-architecture](https://vishalxtyagi.in/case-studies/product-analytics-architecture) (case study)
+
+## Research write-ups
+
+- [boot-time-integrity-monitoring](https://vishalxtyagi.in/research/boot-time-integrity-monitoring)
+- [event-dedup-strategies](https://vishalxtyagi.in/research/event-dedup-strategies) (open thread, not yet concluded)
+- [flutter-desktop-self-updater](https://vishalxtyagi.in/research/flutter-desktop-self-updater)
+- [hybrid-state-modeling-patterns](https://vishalxtyagi.in/research/hybrid-state-modeling-patterns) (open thread, not yet concluded)
+- [on-device-ml-flutter-iot](https://vishalxtyagi.in/research/on-device-ml-flutter-iot)
+- [postgrest-rls-multitenancy](https://vishalxtyagi.in/research/postgrest-rls-multitenancy)
+- [python-web3-blockchain-bridge](https://vishalxtyagi.in/research/python-web3-blockchain-bridge)
+- [rag-pdf-llamaindex](https://vishalxtyagi.in/research/rag-pdf-llamaindex)
+- [semantic-similarity-grading](https://vishalxtyagi.in/research/semantic-similarity-grading)
+- [serverless-etl-pipeline-pattern](https://vishalxtyagi.in/research/serverless-etl-pipeline-pattern)
+- [terraform-cloudinit-gh-runner](https://vishalxtyagi.in/research/terraform-cloudinit-gh-runner)
+- [webhook-deploys-shared-hosting](https://vishalxtyagi.in/research/webhook-deploys-shared-hosting)
 
 ## Portfolio projects (knowledge base)
 
