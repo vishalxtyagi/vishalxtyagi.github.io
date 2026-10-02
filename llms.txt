@@ -41,68 +41,23 @@ and is a pub.dev Flutter package author (image_hotspot, floor_plan_builder).
 
 ## Key pages
 
-- [Projects](https://vishalxtyagi.in/projects): production systems with evidence-level tagging (verified, high-confidence, needs-verification)
-- [Case studies](https://vishalxtyagi.in/case-studies): deep technical write-ups on flagship work
-- [Codelabs](https://vishalxtyagi.in/codelabs): step-by-step engineering guides
-- [Research](https://vishalxtyagi.in/research): system design breakdowns and architecture logs
-- [Writing](https://vishalxtyagi.in/writing): engineering notes and essays
-- [Topics](https://vishalxtyagi.in/topics): cross-linked topic map across projects, writing, and research
-- [Work map](https://vishalxtyagi.in/work-map): career surface by company, project, and open-source cluster
-- [About](https://vishalxtyagi.in/about): background, contact, and how to navigate the notebook
-- [Now](https://vishalxtyagi.in/now): current focus and priorities
-- [Resume](https://vishalxtyagi.in/resume): experience linked to project proof
+- [Home](https://vishalxtyagi.in/): role, current work, and case studies
+- [Resume](https://vishalxtyagi.in/resume): experience and projects, with links to case studies
+- [About](https://vishalxtyagi.in/about): background and contact
 
 ## Portfolio coverage
 
 - 158 GitHub repos verified from source code (commit history, README, code)
-- 26 named portfolio projects (24 projects + 4 case-studies with write-ups live on site)
+- 26 named portfolio projects (5 case studies with write-ups live on site)
 - 12 skill/domain areas (see ## Skill areas below)
 
 ## Projects with write-ups
 
-- [automated-report-downloader](https://vishalxtyagi.in/projects/automated-report-downloader)
-- [blockchain-ngo-donations](https://vishalxtyagi.in/projects/blockchain-ngo-donations)
-- [crickiaa](https://vishalxtyagi.in/projects/crickiaa)
-- [enthral-price-automation](https://vishalxtyagi.in/projects/enthral-price-automation)
-- [face-validation-api](https://vishalxtyagi.in/projects/face-validation-api)
-- [floor-plan-builder](https://vishalxtyagi.in/projects/floor-plan-builder)
-- [flutter-image-hotspot](https://vishalxtyagi.in/projects/flutter-image-hotspot)
-- [gmssss-laravel-school-website](https://vishalxtyagi.in/projects/gmssss-laravel-school-website)
-- [hopfield-network-visualization](https://vishalxtyagi.in/projects/hopfield-network-visualization)
-- [html-content-translator](https://vishalxtyagi.in/projects/html-content-translator)
-- [laravel-queue-shared-hosting](https://vishalxtyagi.in/projects/laravel-queue-shared-hosting)
-- [my-dua-app](https://vishalxtyagi.in/projects/my-dua-app)
-- [nmold-inventory-redevelopment](https://vishalxtyagi.in/projects/nmold-inventory-redevelopment)
-- [no-code-ml](https://vishalxtyagi.in/projects/no-code-ml)
-- [omr-sheet-automation](https://vishalxtyagi.in/projects/omr-sheet-automation)
-- [php-ghost-wall](https://vishalxtyagi.in/projects/php-ghost-wall)
-- [piet-quest-portal](https://vishalxtyagi.in/projects/piet-quest-portal)
-- [rag-document-chatbot](https://vishalxtyagi.in/projects/rag-document-chatbot)
-- [real-time-location-tracker](https://vishalxtyagi.in/projects/real-time-location-tracker)
-- [runo-admin-web-migration](https://vishalxtyagi.in/projects/runo-admin-web-migration)
-- [runo-hybrid-telephony](https://vishalxtyagi.in/projects/runo-hybrid-telephony)
-- [runo-product-analytics](https://vishalxtyagi.in/projects/runo-product-analytics)
-- [schema-driven-school-crud](https://vishalxtyagi.in/projects/schema-driven-school-crud)
-- [smart-irrigation-iot](https://vishalxtyagi.in/projects/smart-irrigation-iot)
 - [admin-web-migration-architecture](https://vishalxtyagi.in/case-studies/admin-web-migration-architecture) (case study)
 - [hybrid-telephony-architecture](https://vishalxtyagi.in/case-studies/hybrid-telephony-architecture) (case study)
 - [nmold-plc-telemetry-architecture](https://vishalxtyagi.in/case-studies/nmold-plc-telemetry-architecture) (case study)
 - [product-analytics-architecture](https://vishalxtyagi.in/case-studies/product-analytics-architecture) (case study)
-
-## Research write-ups
-
-- [boot-time-integrity-monitoring](https://vishalxtyagi.in/research/boot-time-integrity-monitoring)
-- [event-dedup-strategies](https://vishalxtyagi.in/research/event-dedup-strategies) (open thread, not yet concluded)
-- [flutter-desktop-self-updater](https://vishalxtyagi.in/research/flutter-desktop-self-updater)
-- [hybrid-state-modeling-patterns](https://vishalxtyagi.in/research/hybrid-state-modeling-patterns) (open thread, not yet concluded)
-- [on-device-ml-flutter-iot](https://vishalxtyagi.in/research/on-device-ml-flutter-iot)
-- [postgrest-rls-multitenancy](https://vishalxtyagi.in/research/postgrest-rls-multitenancy)
-- [python-web3-blockchain-bridge](https://vishalxtyagi.in/research/python-web3-blockchain-bridge)
-- [rag-pdf-llamaindex](https://vishalxtyagi.in/research/rag-pdf-llamaindex)
-- [semantic-similarity-grading](https://vishalxtyagi.in/research/semantic-similarity-grading)
-- [serverless-etl-pipeline-pattern](https://vishalxtyagi.in/research/serverless-etl-pipeline-pattern)
-- [terraform-cloudinit-gh-runner](https://vishalxtyagi.in/research/terraform-cloudinit-gh-runner)
-- [webhook-deploys-shared-hosting](https://vishalxtyagi.in/research/webhook-deploys-shared-hosting)
+- [whatsapp-crm-sidecar-architecture](https://vishalxtyagi.in/case-studies/whatsapp-crm-sidecar-architecture) (case study)
 
 ## Portfolio projects (knowledge base)
 
