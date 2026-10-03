@@ -11,7 +11,7 @@ Built with Astro, Tailwind CSS, and MDX.
 Hosted on GitHub Pages.
 
 /* SITE */
-Last update: 2026-10-03
+Last update: 2026-10-04
 Language: English
 Doctype: HTML5
 Standards: schema.org, llms.txt spec

@@ -1,0 +1,2 @@
+Brand glyphs from Simple Icons (https://simpleicons.org), CC0 1.0. Shown in each brand's own color, except DuckDB, JavaScript, Linux and scikit-learn (too light on white), drawn in #1f1f1f.
+Each mark stays its owner's trademark; shown only to name tools used.
