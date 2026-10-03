@@ -3,6 +3,7 @@ Developer, Designer: Vishal Tyagi
 Location: Hyderabad, Telangana, India
 GitHub: github.com/vishalxtyagi
 LinkedIn: linkedin.com/in/vishalxtyagi
+Kaggle: kaggle.com/vishalxtyagi
 npm / pub.dev: vishalxtyagi
 
 /* THANKS */
@@ -10,7 +11,7 @@ Built with Astro, Tailwind CSS, and MDX.
 Hosted on GitHub Pages.
 
 /* SITE */
-Last update: 2026-10-02
+Last update: 2026-10-03
 Language: English
 Doctype: HTML5
 Standards: schema.org, llms.txt spec

@@ -11,6 +11,7 @@ Product-minded software engineer working across analytics, telephony, integratio
 Contact: vishaltyagi.sde@gmail.com
 GitHub: https://github.com/vishalxtyagi
 LinkedIn: https://linkedin.com/in/vishalxtyagi
+Kaggle: https://www.kaggle.com/vishalxtyagi
 
 ## Disambiguation
 
@@ -48,7 +49,7 @@ and is a pub.dev Flutter package author (image_hotspot, floor_plan_builder).
 ## Portfolio coverage
 
 - 158 GitHub repos verified from source code (commit history, README, code)
-- 26 named portfolio projects (5 case studies with write-ups live on site)
+- 24 named portfolio projects (5 case studies with write-ups live on site)
 - 12 skill/domain areas (see ## Skill areas below)
 
 ## Projects with write-ups
@@ -59,34 +60,32 @@ and is a pub.dev Flutter package author (image_hotspot, floor_plan_builder).
 - [product-analytics-architecture](https://vishalxtyagi.in/case-studies/product-analytics-architecture) (case study)
 - [whatsapp-crm-sidecar-architecture](https://vishalxtyagi.in/case-studies/whatsapp-crm-sidecar-architecture) (case study)
 
-## Portfolio projects (knowledge base)
+## Projects
 
-- **AI-Powered Financial Chatbot** — Financial-report chatbot/NLP system; related LinkedIn role references Morningstar documentation chatbot deployed on AWS Lightsail. · repo: vishalxtyagi-morningstar-pdf-chatbot
-- **Automated Report Downloader** — Automation for downloading and organizing reports from web portals. · repo: yespiet-python-feedback-downloader
-- **Blockchain-Based NGO Donation Tracking** — Blockchain platform for transparent NGO donations and payouts. · repo: vishalxtyagi-ngo-minor-project
-- **Crickiaa** — Flutter UI app for gully cricket match management and scorekeeping. · repo: vishalxtyagi-crickiaa-dev
-- **CSXIIP School Management System** — Low-code school management GUI that dynamically creates tables, forms, and CRUD operations from DB schema. · repo: vishalxtyagi-csxiip
-- **ENTHRAL.IN Product Data Change Detection Tool** — Supplier scraping and comparison workflow to update OpenCart product listings/prices using margin rules. · repo: vishalxtyagi-enthral-scraped-data-changes-detector
-- **EvalSheet** — Automated handwritten answer checker with test creation, OCR answer extraction, and similarity-based grading. · repo: vishalxtyagi-evalsheet
-- **Floor Plan Builder** — Flutter package for interactive floor plans with customizable tables. · repo: vishalxtyagi-floor-plan-builder
-- **GMSSSS Laravel School Website** — School website with dynamic pages, navigation, role management, shared-hosting deployment helper, and error handling. · repo: vishalxtyagi-gmsssschulkana
-- **Hopfield Network Visualization** — Learning project with interactive Hopfield Network visualizations; note that it was created with AI assistance per GitHub summary. · repo: vishalxtyagi-hopfield-network-viz
-- **HTML Content Translator** — Script that translates text inside HTML while preserving tags. · repo: vishalxtyagi-html-files-translator-using-python
-- **image_hotspot Flutter Package** — Flutter package for defining interactive clickable hotspot areas on images. · repo: vishalxtyagi-flutter-image-hotspot
-- **Laravel Queue Worker for Shared Hosting** — Node.js script enabling Laravel queue workers in shared hosting environments where background processes are limited. · repo: vishalxtyagi-nodejs-laravel-queue-runner
-- **My Dua App** — Ramadan-focused app redesign with music playback and religious features. · repo: vishalxtyagi-my-dua-app
-- **NMOLD Inventory Management Redevelopment** — Redeveloped inventory management using Flutter, Express, and MongoDB, replacing older Python/Laravel stack and adding image recognition. · repo: vishalxtyagi-nmolds
-- **NO-CODE ML Environment** — Web-based no-code machine-learning pipeline environment. · repo: vishalxtyagi-no-code-ml
-- **OMR Sheet Reading Automation** — Python automation script for OMR sheet reading that processed over 90,000 sheets. · repo: vishalxtyagi-omr-scanner
-- **PHP Ghost Wall** — Laravel package for code-integrity monitoring, tamper alerts, and server information on boot. · repo: vishalxtyagi-php-ghost-wall
-- **PIET Quest Exam Portal** — Exam portal with cheating detection, randomized question sets, and dynamic question ordering.
-- **Real-time Location Tracker** — Live location sharing app with interactive map. · repo: vishalxtyagi-realtime-location-tracker
-- **Runo Admin Web Migration / Admin Platform Workflows** — Admin Web Flutter migration work involving reusable components, integration dialogs, bulk uploads, deletion workflows, templates, validation, and loading states.
-- **Runo Hybrid Telephony** — Hybrid GSM/cloud calling flows with call-medium selection, virtual-number assignment, call logs, analytics filters, and permissions.
-- **Runo Product Analytics / Amplitude System** — Product analytics infrastructure and instrumentation across authentication, billing, CRM, templates, allocations, filters, and product workflows.
-- **Skill Matrix LMS** — Project scaffold with two sub-directories: client (an unmodified create-next-app Next.js 14 template — literally the default boilerplate with the Vercel/Next.js welcome page intact) and server (a Spring Boot 3 Java project with Maven wrapper). The server has a package structure (com.skillmatrix.lms) with a CourseController stub but no actual business logic implemented. Single initial commit. · repo: vishalxtyagi-skill-matrix-lms
-- **Smart Irrigation IoT** — NodeMCU/sensor-based smart irrigation app with Flutter visualization and SVM-based irrigation forecasting. · repo: vishalxtyagi-smart-irrigation-iot
-- **TrueShot** — Image validator API using face-api.js and TensorFlow.js. · repo: vishalxtyagi-trueshot
+- [Admin Web Migration](https://vishalxtyagi.in/work/runo-admin-web-migration): Migrated the administrative web surface incrementally while ops kept working: shared sheet validation, multi-step upload wizards, and dirty-check wrappers replaced duplicated legacy UI plumbing.
+- [Blockchain NGO Donation Tracking](https://vishalxtyagi.in/work/blockchain-ngo-donations): Built an Ethereum-based donation tracking prototype at a nonprofit: lifecycle states on-chain, receipt hashes for auditability, MetaMask-signed attestations, without the platform holding custodial keys.
+- [Campus Exam Portal](https://vishalxtyagi.in/work/piet-quest-portal): Built Campus Quest, a campus examination portal with per-session question/option permutation, focus-loss integrity signals, and bulk question-bank ingestion for faculty.
+- [Crickiaa](https://vishalxtyagi.in/work/crickiaa): Flutter UI for a gully cricket match management app: OTP-based login, match listing, team creation, and batting/bowling stats screens. Started from Figma-generated scaffolding; real work was adding SVG icons, OTP auth integration, and fixing Android builds.
+- [E-commerce Price & Catalog Sync](https://vishalxtyagi.in/work/enthral-price-automation): Automated supplier catalog extraction and price-drift detection for an electronics e-commerce store. Margin rules and outlier thresholds produce OpenCart import manifests instead of manual daily price checks.
+- [Face Validation API Prototype](https://vishalxtyagi.in/work/face-validation-api): Prototype Express API exploring server-side face detection with face-api.js / TensorFlow.js: auth and middleware are solid; the detection route is intentionally unfinished and documented as such.
+- [floor_plan_builder, a Flutter package](https://vishalxtyagi.in/work/floor-plan-builder): Flutter package for rendering interactive restaurant/venue floor plans from a JSON table list: shapes, availability colors, pinch-to-zoom, and onTableTap callbacks.
+- [Hopfield Network Visualization](https://vishalxtyagi.in/work/hopfield-network-visualization): Two Jupyter notebooks exploring Hopfield networks: a basic 2-neuron energy landscape demo and an advanced 5x5 grid showing pattern storage and noisy-input recovery with animation. Built with AI assistance while learning the concepts.
+- [HTML Content Translator](https://vishalxtyagi.in/work/html-content-translator): Python utility that walks an HTML DOM with BeautifulSoup, translates visible text nodes (EN→HI), and leaves tags, attributes, and script/style alone.
+- [Hybrid Telephony Workflows](https://vishalxtyagi.in/work/runo-hybrid-telephony): Runo already supported SIM-based call tracking and Airtel IQ cloud telephony, but never together; an account got one or the other. This work unified both into one account-level capability, usable simultaneously in the same app.
+- [image_hotspot, a Flutter package](https://vishalxtyagi.in/work/flutter-image-hotspot): Published a Flutter package for defining interactive, clickable hotspot areas on images, useful for floor plans, diagrams, and annotated photos.
+- [Laravel Queue Worker on Shared Hosting](https://vishalxtyagi.in/work/laravel-queue-shared-hosting): A small Node.js process manager that spawns and restarts Laravel's queue worker on shared hosting where Supervisor/systemd are unavailable.
+- [Manufacturing Inventory Platform Rebuild](https://vishalxtyagi.in/work/nmold-inventory-redevelopment): Rebuilt the manufacturing client's inventory tooling from a rigid monolith to Flutter clients over Express/MongoDB, with Node-RED/OPC UA bridging Siemens and Delta PLC telemetry into the same operational picture.
+- [My Dua App](https://vishalxtyagi.in/work/my-dua-app): Flutter redesign of an existing Islamic app. It consumes a live WordPress REST API for dua/dhikr content, schedules device-local adhan alarms per prayer time (geolocation-based), and streams audio via a persistent bottom-nav player.
+- [No-Code ML Environment](https://vishalxtyagi.in/work/no-code-ml): Flask app that wraps common supervised-learning pipelines behind a UI: CSV upload, column picker, sklearn regressors or Keras LSTM, then MAE/MSE/RMSE plus a prediction plot.
+- [OMR Sheet Automation](https://vishalxtyagi.in/work/omr-sheet-automation): Built a staged, fault-tolerant Python OMR pipeline that processed over 90,000 physical examination forms.
+- [PHP Ghost Wall](https://vishalxtyagi.in/work/php-ghost-wall): Composer package for Laravel that hash-checks a monitored file on every boot, POSTs a tamper alert if it changed, and phones home with server metadata. Built for shared hosting without CI file watchers.
+- [Product Analytics Pipeline](https://vishalxtyagi.in/work/runo-product-analytics): Built a product analytics telemetry pipeline: a provider abstraction over Amplitude, typed event schemas, Hive-backed client buffering, and sliding-window deduplication.
+- [RAG Document Chatbot](https://vishalxtyagi.in/work/rag-document-chatbot): Retrieval-augmented chatbot over PDF docs: embed with a hosted model, retrieve top chunks, answer with an LLM constrained to that context. Flask UI, honest notes on global-index limits.
+- [Real-time Location Tracker](https://vishalxtyagi.in/work/real-time-location-tracker): Browser GPS sharing over Socket.IO: every connected client broadcasts coordinates; a shared Leaflet map shows live markers with device popups and auto-fit bounds.
+- [Schema-Driven School CRUD GUI](https://vishalxtyagi.in/work/schema-driven-school-crud): Class-project desktop GUI that introspects SQLite at runtime and generates navigation, CRUD forms, and tables dynamically: closer to a tiny low-code engine than hand-built screens.
+- [School CMS on Shared Hosting](https://vishalxtyagi.in/work/gmssss-laravel-school-website): Production school CMS: Laravel 11 and Filament v3 with RBAC, galleries, announcements, webhook auto-deploy, and php-ghost-wall integrity checks on shared hosting.
+- [Smart Irrigation IoT](https://vishalxtyagi.in/work/smart-irrigation-iot): Built a soil/climate irrigation setup: NodeMCU sensors publish to Firebase, a Flutter dashboard visualizes the stream, and an SVM model drives pump actuation with hard edge cutoffs if the cloud path stalls.
+- [WhatsApp Web CRM Sidecar](https://vishalxtyagi.in/work/runo-whatsapp-crm-sidecar): Built a Manifest V3 Chrome extension that syncs WhatsApp Web conversations into a CRM by resolving the app's own internal module stores at runtime, and pages chat history without ever changing the chat a rep is looking at.
 
 ## Skill areas
 
@@ -103,36 +102,25 @@ and is a pub.dev Flutter package author (image_hotspot, floor_plan_builder).
 - **languages** — Core programming languages: Dart, Python, JavaScript/TypeScript, PHP, SQL, Bash, and Java
 - **telephony and crm** — Hybrid cloud/GSM telephony, virtual number assignment, call analytics, and CRM data configuration at Runo
 
-## Career / clients
+## Career
 
-- **ACHIEVERS (Startup)** — Student achievement social platform; Flutter mobile development for peer networking and academic progress tracking
-- **CURESURE (Startup)** — Healthcare SaaS startup; 6-month software development role on a hospital management system
-- **Digitaxperts** — Web development agency; Laravel client sites (awards shows, insurance, institutes) and server/DNS/hosting recovery work
-- **Emailwish** — Shopify email automation SaaS; 1-month contract on Laravel backend and React frontend chat widget
-- **ENTHRAL.IN** — Electronics/CCTV e-commerce site; built a supplier-scraping price-automation tool and fixed OpenCart functionality
-- **EQUALITYMUST STUDIOS** — Freelance Android and web development studio; shipped a news aggregator app, a rentals platform, and a classifieds site
-- **Geoms Digital House Pvt. Ltd.** — Digital agency; Panipat Marathon 2024 registration site (with govt. collaboration), Next.js/MongoDB inventory portal fixes
-- **HtK Network** — IT company; blockchain and web development alongside DevOps automation (Jenkins, Terraform) and OMR automation at 90k+ sheet scale
-- **INCITE GROUP** — MNC environment; Python OMR automation at 90k+ sheet scale, DevOps practices with Jenkins/Terraform, international client onboarding
-- **Infosys Springboard** — Infosys's free digital-skills learning platform; career-entry training, not a traditional employment role
-- **Milano Web Agency** — Web hosting agency; 14-month contract managing Plesk panels, DNS, server setups, and cybersecurity measures across client environments
-- **Minksha** — Milk-delivery startup; 2-month frontend contract building the consumer-facing web UI
-- **NAUKRICART (Startup)** — Construction-sector job portal; two-sided marketplace for job listings and equipment rental
-- **NMOLD (OPC) PRIVATE LIMITED** — Manufacturing company; led Flutter+Express+MongoDB inventory rebuild, IoT poultry monitoring, OPC UA/Node-RED PLC data streaming
-- **Panipat Institute of Engineering and Technology** — PIET college; student portals, PIET Quest exam platform with cheating detection, HDFC-integrated ticketing, automation scripts
-- **PEHLAPANNA** — News platform startup; cloud operations for AWS Lightsail migration and hosting cost optimization
-- **PIXOVA STUDIOS / Versioning Solution** — Web agency; CodeIgniter property listing site maintenance, Node.js portal development
-- **Profusion Creatives LLP** — Web agency; Laravel development for rummy platform, pharma site, awards show, and music streaming startup
-- **RGC Engineering Solutions** — Engineering firm; Flutter work (My Dua prayer app redesign, attendance app) and ML engineering stint
-- **Runo** — CRM and telephony SaaS (current employer); product analytics instrumentation, hybrid telephony, admin platform, CRM/lead-source integrations
-- **TechMarshal Software Pvt. Ltd.** — IT company; PHP maintenance for Techmarshal website and RupayRummy client site
-- **VISION Foundation** — NGO/education; built Laravel exam module for Vidya Darshini IAS prep platform
+- **Software Engineer, Runo** — Product engineering on a sales CRM: the admin integrations platform, product analytics, hybrid calling, a WhatsApp Web extension, and the daily call-analytics pipeline.
+- **Mobile Application Developer, NMOLD (OPC) Private Limited** — Rebuilt a manufacturer's inventory system and connected its factory machines to it.
+- **Full Stack Developer, Panipat Institute of Engineering & Technology** — Part-time while studying: the college's portals for exams, feedback, ticketing and bus tracking.
+
+## Freelance (grouped by kind of work; client names left out)
+
+- **Automation and AI** — A Python OMR reader that processed more than 90,000 exam sheets, plus Jenkins and Terraform work. Supplier price scraping and margin-based price updates for an OpenCart store. A chatbot over product documentation on AWS Lightsail, and a scraper for NGO details.
+- **Blockchain** — A blockchain donation tracker for an NGO, an OCR answer-sheet checker, and client websites and hosting.
+- **Products for startups** — A job portal and equipment marketplace for the construction industry. A hospital management system, built with a student team. A social platform where students track and share achievements. The frontend website for a milk-delivery startup.
+- **Sites and portals** — An exam module in Laravel for a civil-services coaching institute. A quiz portal for intern certification, and updates to the company website. Upkeep of a legacy CodeIgniter property listing site, and a Node.js information portal. Fixes and improvements to a company website.
+- **Mobile apps** — A Flutter redesign of a prayer app for Ramadan, with audio playback. An Android news app, plus a rentals platform and a classifieds website.
+- **Hosting and operations** — Plesk servers, DNS and security, including honeypots, across a web agency's hosting. Hosting for a news website, including its move to AWS Lightsail. Recovering client sites from backups, then hosting, DNS and email.
 
 ## GitHub orgs
 
 - **flexiblecampus** — Education-platform org (PIET context) — Laravel/Filament starter kit for campus admin workflows
 - **haloyte** — Startup org — Flutter mobile app (sarvdharm) and supporting infrastructure repos; early-stage product work across mobile and DevOps
-- **profusioncreatives** — Web agency client org — PHP/Laravel sites for awards shows, e-commerce, and brand campaigns delivered as production deployments
 - **vishalxtyagi** — Personal GitHub account — 123 repos spanning college projects, freelance client work, open-source packages, and product prototypes across PHP/Laravel, Flutter, Python, and Node.js
 - **wirecept** — Product-company org — contributions to Manifest (open-source manufacturing ERP for factory floors), CloudPilot serverless infra, and a shared Flutter core package
 - **yespiet** — YesPIET — institutional GitHub org for PIET (Pragya Institute of Engineering and Technology); campus management portals, event registration systems, and student-facing tools
