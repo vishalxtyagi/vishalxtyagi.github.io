@@ -61,6 +61,7 @@ Disallow: /codelabs/*/step-*
 Disallow: /decisions
 
 Sitemap: https://vishalxtyagi.in/sitemap-index.xml
+Sitemap: https://vishalxtyagi.in/sitemap-extra.xml
 
 # For LLM/AI crawlers: https://vishalxtyagi.in/llms.txt
 # For humans: https://vishalxtyagi.in/humans.txt
